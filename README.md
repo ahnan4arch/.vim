@@ -1,2 +1,2 @@
 # .vim
-vim config
+vim configuration  for golang
