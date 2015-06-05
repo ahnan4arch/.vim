@@ -134,5 +134,9 @@ nmap <F7> :TagbarToggle<CR>
 "nerdtree start
 map <C-n> :NERDTreeToggle<CR>
 "nerdtree end
+"add neocomplete start
+"this requires vim 7.3.885 at last
+"let g:neocomplete#enable_at_startup = 1
+"add neocomplete end
 call pathogen#infect()
 
